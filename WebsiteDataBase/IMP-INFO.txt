@@ -1,0 +1,43 @@
+-------------------------TESTING SERVER ( ROOT COMPUTER )/DATABASE---------------------
+Service Instance Name:: Crypto-Test-DB
+Username:: CTestDB#2023
+Root Password:: cwtDB#2023@MySQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+https://www.hostingadvice.com/best/mysql-hosting/
+
+
+Unlimited databases with generous 3GB maximSome of the best budget web hosting plans with unlimited MySQL databases are:
+1.Bluehost — $2.95 per month.
+2.Hostinger — $1.99 per month.
+3.A2 Hosting — $2.99 per month.
+4.SiteGround — $1.99 per month.
+5.HostGator — $2.64 per month.
+6.InMotion Hosting — $2.29 per month.
+
+https://dev.mysql.com/downloads/installer/
+
+um
+Support for remote MySQL access and InnoDB
+Custom control panel for easy database oversight
+GitHub integration plus phpMyAdmin
+LiteSpeed caching and WordPress acceleration
+------------------------------------------------------------------------
+
+
+
+
