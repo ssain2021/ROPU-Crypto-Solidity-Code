@@ -1,5 +1,0 @@
-To Embed our Whitepaper from GAMMA.APP in our Website:
-'''html
-<iframe src="https://gamma.app/embed/qymn8jtbo5u0vsl" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Introducing ClastroComp: The Future of Cryptocurrency"></iframe>
-'''
--------------------------------------------
